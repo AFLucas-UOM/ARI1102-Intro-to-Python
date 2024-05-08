@@ -9,9 +9,9 @@ This repository contains a collection of Jupyter notebooks covering basic Python
 
 This repository contains two main sections:
 
-1. **Worksheets:** This directory contains the clear, untouched worksheets for each topic.
+1. **`Worksheets`:** This directory contains the clear, untouched worksheets for each topic.
 
-2. **Worksheets - Annotated:** In this directory, you'll find the annotated versions of the worksheets. These notebooks include explanations, annotations, and answers to guide beginners through each topic.
+2. **`Worksheets - Annotated`:** In this directory, you'll find the annotated versions of the worksheets. These notebooks include explanations, annotations, and answers to guide beginners through each topic.
 
 ## Getting Started
 
